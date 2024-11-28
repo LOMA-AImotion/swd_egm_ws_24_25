@@ -3,3 +3,7 @@ annoying
 sleepy
 angry
 tired
+studious
+ambitious
+focused
+concentrated
