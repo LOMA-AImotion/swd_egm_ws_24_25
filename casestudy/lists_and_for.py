@@ -1,11 +1,11 @@
-radion_button = ["Radio Button", 234]
+radio_button = ["Radio Button", 234]
 window_button = ["Window Button", 678]
 seat_height_button = ["Seat height button", 258]
 seat_belt_in_meter = ["Seat belt in meter", 63.7]
 main_driver_screen = ["Main driver screen", 90]
 steering_wheel_button = ["Steering wheel button", 941]
 
-inventory = [radion_button, window_button, seat_height_button, seat_belt_in_meter, main_driver_screen, steering_wheel_button]
+inventory = [radio_button, window_button, seat_height_button, seat_belt_in_meter, main_driver_screen, steering_wheel_button]
 
 part_index = 0
 for part in inventory:
